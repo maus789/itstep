@@ -11,7 +11,7 @@ if age > 18:
 elif age == 18:
     print("Ти дорослий")
 else:
-#   print("Ти ще дитина")
+   print("Ти ще дитина")
 #3#
 number = float(input("Введіть число: "))
 
